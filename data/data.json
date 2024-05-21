@@ -1,0 +1,38 @@
+const workData = [
+        {
+            img: '',
+            title: 'UIDeli.com',
+            info: 'Design + Development 2023',
+            desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.'
+        },
+        {
+            img: '',
+            title: 'Koto Studio',
+            info: 'Development 2023',
+            desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.'
+        },
+        {
+            img: '',
+            title: 'Switch Black',
+            info: 'Design 2023',
+            desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.'
+        },
+        {
+            img: '',
+            title: 'ReMarket',
+            info: 'Development 2023',
+            desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.'
+        },
+        {
+            img: '',
+            title: 'Another One',
+            info: 'Development 2023',
+            desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.'
+        },
+        {
+            img: '',
+            title: 'Blender Renders',
+            info: 'Design + Development 2023',
+            desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.'
+        }
+    ];
