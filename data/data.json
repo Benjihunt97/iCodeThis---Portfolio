@@ -1,5 +1,4 @@
-const workData = [
-        {
+{
             img: '',
             title: 'UIDeli.com',
             info: 'Design + Development 2023',
@@ -35,4 +34,3 @@ const workData = [
             info: 'Design + Development 2023',
             desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et.'
         }
-    ];
